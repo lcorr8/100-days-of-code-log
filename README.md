@@ -9,7 +9,7 @@ During this time I plan to go back to my Flatiron School curriculum to review ev
 Without further ado, I present my **100DaysofCode** personal challenge.
 
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16438376?s=460&v=4" alt="Headshot of Laura Correa" align="center">
+  <img src="https://avatars0.githubusercontent.com/u/16438376?s=460&v=4" alt="Headshot of Laura Correa">
 </p>
 
 <p align="center"><b>Follow me on Twitter </b><a href="https://twitter.com/L_corr">here</a>.</p>

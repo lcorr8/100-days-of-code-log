@@ -1,6 +1,4 @@
-# 100-days-of-code-log
-
-<h1 align="center">100 Days Of Code Personal Challenge</h1>
+<h1 align="center">100 Days Of Code: Personal Challenge</h1>
 
 Hello World! You are about to witness the beginning of an epic 100-day coding journey where I have challenged myself to code outside of work for 100 consecutive days in the hope to solidify new habits that will allow me to continue to learn new and interesting topics outside of work. 
 

@@ -25,7 +25,7 @@ Without further ado, I present my **100DaysofCode** personal challenge.
 
 **Thoughts** ... wow doing this again I realize I'm taking much more time to read and peruse all resources and book recommendations. I definitely don't think I took enough time to play around before, so i'm enjoying goofing around on the shell and taking this reintroduction less seriously than before. I'm also wondering why on earth I waited so long to dive into the tests the first time around.
 
-![Testing gif of two car dummies giving a high five.](https://media.giphy.com/media/5xrkJe3IJKSze/giphy.gif)
+<img align="center" src="https://media.giphy.com/media/5xrkJe3IJKSze/giphy.gif" alt="Testing gif of two car dummies giving a thumbs up.">
 
 **Link to tweet**
 [Day 1](https://twitter.com/L_corr/status/1082777799063158784)

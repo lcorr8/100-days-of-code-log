@@ -1,6 +1,4 @@
-# 100-days-of-code-log
-
-<h1 align="center">100 Days Of Code Personal Challenge</h1>
+<h1 align="center">100 Days Of Code: Personal Challenge</h1>
 
 Hello World! You are about to witness the beginning of an epic 100-day coding journey where I have challenged myself to code outside of work for 100 consecutive days in the hope to solidify new habits that will allow me to continue to learn new and interesting topics outside of work. 
 
@@ -10,7 +8,9 @@ During this time I plan to go back to my Flatiron School curriculum to review ev
 
 Without further ado, I present my **100DaysofCode** personal challenge.
 
-<img src="https://avatars0.githubusercontent.com/u/16438376?s=460&v=4" alt="Headshot of Laura Correa">
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/16438376?s=460&v=4" alt="Headshot of Laura Correa">
+</p>
 
 <p align="center"><b>Follow me on Twitter </b><a href="https://twitter.com/L_corr">here</a>.</p>
 

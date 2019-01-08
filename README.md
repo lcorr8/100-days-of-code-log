@@ -18,3 +18,15 @@ Without further ado, I present my **100DaysofCode** personal challenge.
 
 <hr>
 <br>
+
+<h2 align="center"> Day 1: Monday January 8, 2019 </h2>
+ 
+**Today's Progress**: Today I decided to commit to the 100 days of code challenge and I started my visual log inspired by Joe Warren's [How to Transform Your #100DaysOfCode Log Into a Visual Experience](https://medium.freecodecamp.org/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9) article. Additionally I worked on the Intro to Ruby development section of Flatiron School's curriculum through variables(about 16% of the section). Read all of the extra resources, and inspected all of the tests.
+
+**Thoughts** ... wow doing this again I realize I'm taking much more time to read and peruse all resources and book recommendations. I definitely don't think I took enough time to play around before, so i'm enjoying goofing around on the shell and taking this reintroduction less seriously than before. I'm also wondering why on earth I waited so long to dive into the tests the first time around.
+
+<div style="width:100%;height:0;padding-bottom:81%;position:relative;"><iframe src="https://giphy.com/embed/5xrkJe3IJKSze" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+
+**Link to tweet**
+[Day 1](https://twitter.com/L_corr/status/1082777799063158784)
+

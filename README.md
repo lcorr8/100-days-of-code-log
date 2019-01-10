@@ -19,7 +19,7 @@ Without further ado, I present my **100DaysofCode** personal challenge.
 <hr>
 <br>
 
-<h2 align="center"> Day 1: Monday January 8, 2019 </h2>
+<h2 align="center"> Day 1: Tuesday January 8, 2019 </h2>
  
 **Today's Progress**: Today I decided to commit to the 100 days of code challenge and I started my visual log inspired by Joe Warren's [How to Transform Your #100DaysOfCode Log Into a Visual Experience](https://medium.freecodecamp.org/how-to-transform-your-100daysofcode-log-into-a-visual-experience-d048334af8d9) article. Additionally I worked on the Intro to Ruby development section of Flatiron School's curriculum through variables(about 16% of the section). Read all of the extra resources, and inspected all of the tests.
 
@@ -31,3 +31,13 @@ Without further ado, I present my **100DaysofCode** personal challenge.
 **Link to tweet**
 [Day 1](https://twitter.com/L_corr/status/1082777799063158784)
 
+<h2 align="center"> Day 2: Wednesday January 9th into the 10th, 2019 </h2>
+ 
+**Today's Progress**: Today I reviewed Ruby datatypes, array basics, methods and arguments. string interpolation, standard streams (Input/Output).
+
+**Thoughts** wahh working late into the night is really messing up with my schedule for programming and the log is becoming confusing. Also after a full day of work and evening activities reading/practicing past midnight is not feeling super productive as i'm exhausted. Will attempt to start doing my daily hour in the morning before work next week.
+
+**Link to tweet**
+[Day 2](https://twitter.com/L_corr/status/1083488167385358336)
+**Link to Articles**
+[standard streams wiki](https://en.wikipedia.org/wiki/Standard_streams)

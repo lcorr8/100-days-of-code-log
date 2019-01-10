@@ -35,9 +35,57 @@ Without further ado, I present my **100DaysofCode** personal challenge.
  
 **Today's Progress**: Today I reviewed Ruby datatypes, array basics, methods and arguments. string interpolation, standard streams (Input/Output).
 
-**Thoughts** wahh working late into the night is really messing up with my schedule for programming and the log is becoming confusing. Also after a full day of work and evening activities reading/practicing past midnight is not feeling super productive as i'm exhausted. Will attempt to start doing my daily hour in the morning before work next week.
+**Thoughts**: wahh working late into the night is really messing up with my schedule for programming and the log is becoming confusing. Also after a full day of work and evening activities reading/practicing past midnight is not feeling super productive as i'm exhausted. Will attempt to start doing my daily hour in the morning before work next week.
 
 **Link to tweet**
 [Day 2](https://twitter.com/L_corr/status/1083488167385358336)
+
 **Link to Articles**
 [standard streams wiki](https://en.wikipedia.org/wiki/Standard_streams)
+
+<h2 align="center"> Day 3: Thursday January 10, 2019 </h2>
+ 
+**Today's Progress**: Today I practiced writing Rspec tests, interpolation, default arguments and I refactored some old code in my very first labs.
+
+sample original answer (note the hard coded stuff): 
+
+```Ruby
+def display_rainbow(colors)
+  puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
+end
+
+# given: ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+# ==> "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
+```
+
+refactored answer:
+
+```Ruby
+#display_rainbow method with an each loop
+ 
+ def display_rainbow(colors)
+ 	array = []
+
+ 	colors.each_with_index do |c, i|
+ 		array << "#{c[0].upcase}: #{colors[i]}"
+ 	end
+
+ 	puts array.join(", ")
+ end
+
+# given: ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
+# ==> "R: red, O: orange, Y: yellow, G: green, B: blue, I: indigo, V: violet"
+```
+
+**Thoughts** how could I forget how much I love ruby...?!?!?!?!
+
+<p align="center">
+  <img src="images/ruby-love.png" alt="Image of Abu from Aladdin holding a ruby.">© Disney
+</p>
+
+**Tweet**
+[Day 3](https://twitter.com/L_corr/status/1083495494960246787)
+
+
+
+

@@ -1,16 +1,18 @@
-<h2 align="center"> Day 1: Monday January 8, 2019 </h2>
+<h2 align="center"> Day : Day January , 2019 </h2>
  
 **Today's Progress**: I've been working on ...
 
-**Thoughts** ...
+**Thoughts**: ...
 
 ```
 Code sample
 ```
 
 **Link to tweet**
-[Day 1](https...)
+[Day 1]()
+
 **Link to Repo**
-[Repo](https...)
+[Repo]()
+
 **Link to Project**
-[Repo](https...)
+[Repo]()

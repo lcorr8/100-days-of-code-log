@@ -86,6 +86,11 @@ refactored answer:
 **Tweet**
 [Day 3](https://twitter.com/L_corr/status/1083495494960246787)
 
+<h2 align="center"> Days 4-7: January 11-14, 2019 </h2>
+ 
+**Today's Progress**: On Friday and today I switched gears and combined a few days of work in anticipation of some scheduling conflics over the weekend. Additionally I got flexible with the curriculumn and started a course for the AWS Developer certification, on which I will be working on fridays and weekends. This weekend I learned about IAM, EC2, Elastic Load Balancer and Route53. It was super cool to map a domain to the elastic load balancer and then to an EC2 container containing a webserver and seing a 'Hello World!' website.
 
+**Thoughts**: Hoping that my flexible schedule doesn't set me too far back in terms of setting new habits and finishing the Flatiron review I initially set as the goal of this challenge.
 
-
+**Link to tweet**
+[Days 4-7](https://twitter.com/L_corr/status/1084900384492212225)

@@ -80,7 +80,7 @@ refactored answer:
 **Thoughts** how could I forget how much I love ruby...?!?!?!?!
 
 <p align="center">
-  <img src="images/ruby-love.png" alt="Image of Abu from Aladdin holding a ruby.">© Disney
+  <img src="images/ruby-love.png" alt="Image of Abu from Aladdin holding a ruby."><br>© Disney
 </p>
 
 **Tweet**
@@ -94,3 +94,19 @@ refactored answer:
 
 **Link to tweet**
 [Days 4-7](https://twitter.com/L_corr/status/1084900384492212225)
+
+<h2 align="center"> Day 8: Tuesday January 15, 2019 </h2>
+ 
+**Today's Progress**: Today I read about making CLI applications and I did a review of terminal/bash commands.
+
+**Thoughts**: I know the commands exist but always find myself having to look them up...so i'm adding a [cheat sheet](https://github.com/0nn0/terminal-mac-cheatsheet) in case anybody else wants to review.
+
+**Link to tweet**
+[Day 8](https://twitter.com/L_corr/status/1085789710889435136)
+
+**Reference links** 
+[29 Linux Commands You Must Know](https://www.hongkiat.com/blog/basic-linux-commands/), [Modify File Permissions with chmod](https://www.linode.com/docs/tools-reference/tools/modify-file-permissions-with-chmod/), [Ownership and Permissions](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/4/html/Step_by_Step_Guide/s1-navigating-ownership.html),
+[Permissions
+](http://linuxcommand.org/lc3_lts0090.php), [Change permissions for a file in Unix
+](https://kb.iu.edu/d/abdb), [How to Set File Permissions Using `chmod'
+](https://www.washington.edu/computing/unix/permissions.html).

@@ -123,3 +123,16 @@ refactored answer:
 
 **Link to tweet**
 [Day 9](https://twitter.com/L_corr/status/1085994502404427776)
+
+<h2 align="center"> Day 10: Thursday January 17, 2019 </h2>
+ 
+**Today's Progress**: In the past hour I completed the readings and labs for the Rspec fizzbuzz lab, tic tac toe position taken lab and valid tic tac toe move lab.
+
+**Thoughts**: 55% of the intro to Ruby section completed... (61 lessons ya'll!) so basically it now takes me an hour to do what a year ago took me a full- full day... a 12 hour work day #progress also all caught up
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/497bdc0dc881f4291d79ab91dfce3493/tenor.gif?itemid=5464277" alt="Cartoon of Spongebob Squarepants doing a victory scream">
+</p>
+
+**Link to tweet**
+[Day 10](https://twitter.com/L_corr/status/1086011485267070977)

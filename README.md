@@ -110,3 +110,16 @@ refactored answer:
 ](http://linuxcommand.org/lc3_lts0090.php), [Change permissions for a file in Unix
 ](https://kb.iu.edu/d/abdb), [How to Set File Permissions Using `chmod'
 ](https://www.washington.edu/computing/unix/permissions.html).
+
+<h2 align="center"> Day 9: Wednesday January 16, 2019 </h2>
+ 
+**Today's Progress**: Today I worked on the Greeting and move labs for the tic tac toe CLI application. I read about logic and conditionals. and also lost myself for a while reading about CI/CD best practices.
+
+**Thoughts**: I can't seem to get my hour of code on the intended day and find myself doing multiple sessions in a day to catch up... Silver lining: still managing the weekly goals so I guess I will continue to be flexible until I can schedule things better.
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/0a4fbaea2ade5996d9d6a3d26c3d43f1/tenor.gif?itemid=7640987" alt="Gif of a man running to catch a train cartoon">
+</p>
+
+**Link to tweet**
+[Day 9](https://twitter.com/L_corr/status/1085994502404427776)

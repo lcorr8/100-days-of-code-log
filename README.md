@@ -136,3 +136,16 @@ refactored answer:
 
 **Link to tweet**
 [Day 10](https://twitter.com/L_corr/status/1086011485267070977)
+
+<h2 align="center"> Day 11: Friday January 18, 2019 </h2>
+ 
+**Today's Progress**: AWS friday! Today I learned about EC2 instances with S3 roles, and creating and encrypting EBS volumes. More than I knew last week. :) 
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/fd9f6f958363a5d8b5be70ac05411bff/tenor.gif?itemid=10765417">
+</p>
+
+**Thoughts** ...zZzZ
+
+**Link to tweet**
+[Day 11](https://twitter.com/L_corr/status/1086361677841530880)

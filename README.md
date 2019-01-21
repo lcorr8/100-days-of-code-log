@@ -298,3 +298,15 @@ end
 
 **Link to tweet**
 [Day 13](https://twitter.com/L_corr/status/1087422223474978816)
+
+<h2 align="center"> Day 14: Monday January 21, 2019 </h2>
+ 
+**Today's Progress**: Back to the Flatiron curriculum. Today I worked on loops/iteration concepts, as well as the TTT play loop and the current player method. Finished my monday marathon and I'm all caught up from the weekend again.
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/2f802f3a4e1404cf544c26f3ca389827/tenor.gif?itemid=5304393" alt="Image of Darla from the movie Little Rascals chrushing a soda can.">
+</p>
+
+**Link to tweet**
+[Day 14](https://twitter.com/L_corr/status/1087458935219589120
+)

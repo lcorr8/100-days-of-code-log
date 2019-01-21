@@ -149,3 +149,139 @@ refactored answer:
 
 **Link to tweet**
 [Day 11](https://twitter.com/L_corr/status/1086361677841530880)
+
+<h2 align="center"> Day 12: Saturday January 19, 2019 </h2>
+ 
+**Today's Progress**: Tic tac toe CLI game built up until first turn. It was funny to compare my code to the first time I did this exercise almost 2 years ago, although I have not really touched ruby since Flatiron, I can see much less clutter in my code.
+
+```Ruby
+# See old me code...
+
+# display_board basic
+def display_board(move =" ")
+  puts " #{move[0]} | #{move[1]} | #{move[2]} "
+  puts "------------"
+  puts " #{move[3]} | #{move[4]} | #{move[5]} "
+  puts "------------"
+  puts " #{move[6]} | #{move[7]} | #{move[8]} "
+end
+# display_board basic ^
+
+# #position_taken? method here
+def position_taken?(board,position)
+  move_integer = position.to_i
+  move= move_integer - 1
+  if board[move] == " "
+    false
+  elsif board[move] == ""
+    false
+  elsif board[move] == nil
+    false
+  else
+    true
+  end
+end
+# end of #position_taken? method ^^^
+
+# code your #valid_move? method here
+def valid_move?(board,position)
+  move_integer = position.to_i
+  move= move_integer - 1
+  #if position is within board and not taken = valid move
+  if move.between?(0,8) && position_taken?(board,position) == false
+    true
+  # if position is within board and taken = invalid move
+  elsif move.between?(0,8) && position_taken?(board,position)
+    false
+  # if position is outside the board, its an invalid move
+  elsif move < 0 || move > 8
+    false
+  end
+end
+# end of #valid_move? method ^^^
+
+# code your move method here!
+def move(board,position,char= "X")
+  move= position.to_i - 1
+  board[move] = char
+end
+# end of #move method ^^^
+
+#define turn(board)
+def turn(board)
+  #ask for input
+  puts "Please enter 1-9:"
+  #get input
+  position= gets.strip
+  #if input is valid
+  if valid_move?(board,position)
+  #make the move for input
+    move(board,position,char= "X")
+  #else
+  else
+  #ask for input again until you get a valid input
+  until valid_move?(board,position) == true
+    puts "Please select an empty cell in range 1-9"
+    position= gets.strip
+  #end
+  end
+  #show the board
+  end
+display_board(board)
+end
+```
+
+```Ruby
+# See present me code...
+
+def display_board(board)
+  puts " #{board[0]} | #{board[1]} | #{board[2]} "
+  puts "------------"
+  puts " #{board[3]} | #{board[4]} | #{board[5]} "
+  puts "------------"
+  puts " #{board[6]} | #{board[7]} | #{board[8]} "
+end
+
+def input_to_index(input)
+  input.to_i - 1
+end
+
+def position_taken?(board,index)
+  !(board[index] == " " || board[index] == "" || board[index] == nil)
+end
+
+def valid_move?(board, index)
+  if index.between?(0,8)
+      if !position_taken?(board, index)
+        true
+      else
+        false
+      end
+  end
+end
+
+def move(board, index, char="X")
+  board[index] = char
+end
+
+def turn(board)
+  puts "Please enter 1-9:"
+  input = gets.strip
+  index = input_to_index(input)
+  if valid_move?(board, index)
+      move(board, index)
+      display_board(board)
+  else
+      turn(board)
+  end
+end
+```
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/f552638ff2e4099790a44c1ccf245301/tenor.gif?itemid=5275838" alt="Gif of Kermit the frog frantically typing into a type writer.">
+</p>
+
+**Thoughts** ...old me seems to have truly loved comments, I even left instruction comments in place. 
+
+**Link to tweet**
+[Day 12](https://twitter.com/L_corr/status/1087415285278224387)

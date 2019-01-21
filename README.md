@@ -285,3 +285,16 @@ end
 
 **Link to tweet**
 [Day 12](https://twitter.com/L_corr/status/1087415285278224387)
+
+<h2 align="center"> Day 13: Sunday January 20, 2019 </h2>
+ 
+**Today's Progress**: Today I switched gears and instead spent my hour reading `React Handbook` By: Flavio Copes
+
+<p align="center">
+	<img src="./images/react-handbook-cover.png" alt="Cover image of the React Handbook by Flavio Copes">
+</p>
+
+**Thoughts**: Flavio offers a bunch of free ebooks, and so far I love the tone in which he writes them, very light and beginner friendly. You can get Flavio's books for free by signing up to his newsletter [here]("https://flaviocopes.com/page/ebooks/").
+
+**Link to tweet**
+[Day 13](https://twitter.com/L_corr/status/1087422223474978816)

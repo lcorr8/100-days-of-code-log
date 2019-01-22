@@ -310,3 +310,16 @@ end
 **Link to tweet**
 [Day 14](https://twitter.com/L_corr/status/1087458935219589120
 )
+
+<h2 align="center"> Day 15: Tuesday January 22, 2019 </h2>
+ 
+**Today's Progress**: Today I went freestyle and wrote a little CLI app to clean an email list that I needed. It takes a horrendously formatted list, pulls emails, and separates into internal/external email lists. yay! Now I can continue planning my women@FS event! here I go! #regex #BetterTogether
+
+**Thoughts**: There is probably a solution for this out there in the web, but it felt so right to build it from scratch...
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/f0baca047a09af4fbd4419c52af05871/tenor.gif?itemid=4482837" alt="Mr. Burns from the Simpsons giving an evil laugh.">
+</p>
+
+**Link to tweet**
+[Day 15](https://twitter.com/L_corr/status/1087812925937590272)

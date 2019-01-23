@@ -323,3 +323,17 @@ end
 
 **Link to tweet**
 [Day 15](https://twitter.com/L_corr/status/1087812925937590272)
+
+<h2 align="center"> Day 16: Wednesday January 23, 2019 </h2>
+ 
+**Today's Progress**: Today I worked on nested array and Ruby enumerables. Particularly Boolean enumerators: #all? (true if every element meets the criteria), #none? (true if none of the elements meet the criteria), #any? (true if any of the elements meets the criteria), #include? (true, if a given object matches the element). And Search enumerables: #select (selects all elements matching criteria, returns an array), #detect or #find ( selects first element matching criteria, returns an object), #reject (selects elements for which the block is false, returns array).
+
+**Thoughts**: sooo many lovely default methods in ruby
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/9d797db627a97f09716c8ce356cab2ff/tenor.gif?itemid=10065103">
+</p>
+
+**Link to tweet**
+[Day 16](https://twitter.com/L_corr/status/1088182640602243092)
+

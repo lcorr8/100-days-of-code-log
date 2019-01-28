@@ -349,3 +349,15 @@ end
 
 **Link to tweet**
 [Day 17](https://twitter.com/L_corr/status/1089980975579385857)
+
+<h2 align="center"> Day 18: Friday January 25, 2019 </h2>
+ 
+**Today's Progress**: AWS Friday! today I worked on Relational Database Services. I provisioned an RDS instance and connected it to a web server.
+
+**Thoughts**: yay! Fridayyyy! now for an offline weekend!!!
+<p align="center">
+	<img src="https://media1.tenor.com/images/56f471ab15daf19027c4b820c42d117b/tenor.gif?itemid=10214504">
+</p>
+
+**Link to tweet**
+[Day 18](https://twitter.com/L_corr/status/1089984630084812800)

@@ -337,3 +337,15 @@ end
 **Link to tweet**
 [Day 16](https://twitter.com/L_corr/status/1088182640602243092)
 
+<h2 align="center"> Day 17: Thursday January 24, 2019 </h2>
+
+**Today's Progress**: Today I continued on the TTT project by building out the won?, full?, draw?, over?, and winner methods.
+
+**Thoughts**: my code looked exactly the same except on less lines.
+
+<p align="center">
+	<img src="./images/won-diff.png" alt="Image highlighting difference of refactored code.">
+</p>
+
+**Link to tweet**
+[Day 17](https://twitter.com/L_corr/status/1089980975579385857)

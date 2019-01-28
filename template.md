@@ -8,6 +8,10 @@
 Code sample
 ```
 
+<p align="center">
+	<img src="" alt="">
+</p>
+
 **Link to tweet**
 [Day 1]()
 

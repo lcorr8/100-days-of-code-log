@@ -361,3 +361,16 @@ end
 
 **Link to tweet**
 [Day 18](https://twitter.com/L_corr/status/1089984630084812800)
+
+<h2 align="center"> Day 19: Saturday January 26, 2019 </h2>
+ 
+**Today's Progress**: On Saturday I finished the tic tac toe CLI application. At the moment it only handles a 2 player game.
+
+**Thoughts**: Cats game!
+
+<p align="center">
+	<img src="./images/cats-game.png">
+</p>
+
+**Link to tweet**
+[Day 19](https://twitter.com/L_corr/status/1090274512459857921)

@@ -374,3 +374,16 @@ end
 
 **Link to tweet**
 [Day 19](https://twitter.com/L_corr/status/1090274512459857921)
+
+<h2 align="center"> Day 20: Sunday January 27, 2019 </h2>
+ 
+**Today's Progress**: On sunday I read about Ruby classes, instances, instance methods and instance variables.
+
+**Thoughts**: My all time favorite method is the methods method.
+
+<p align="center">
+	<img src="./images/ar-methods.png">
+</p>
+
+**Link to tweet**
+[Day 20](https://twitter.com/L_corr/status/1090290966165159943)

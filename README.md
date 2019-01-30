@@ -387,3 +387,10 @@ end
 
 **Link to tweet**
 [Day 20](https://twitter.com/L_corr/status/1090290966165159943)
+
+<h2 align="center"> Day 21: Monday January 28, 2019 </h2>
+ 
+**Today's Progress**: On monday I reviewed 5 lessons on object properties, object lifecycles and object models in Ruby.
+
+**Link to tweet**
+[Day 21](https://twitter.com/L_corr/status/1090694902013415424)

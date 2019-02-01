@@ -394,3 +394,14 @@ end
 
 **Link to tweet**
 [Day 21](https://twitter.com/L_corr/status/1090694902013415424)
+
+<h2 align="center"> Day 22: Tuesday January 29, 2019 </h2>
+ 
+**Today's Progress**: Today I refactored my procedural Tic Tac Toe game into OO Tic Tac Toe, thereby completing the intro to ruby development section of the Flatiron curriculum!
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/39d484e57a2a4e5a8a32279543666da4/tenor.gif?itemid=5729105" alt="Crushed it!">
+</p>
+
+**Link to tweet**
+[Day 22](https://twitter.com/L_corr/status/1091352190621544449)

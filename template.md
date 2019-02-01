@@ -1,4 +1,4 @@
-<h2 align="center"> Day : Day January , 2019 </h2>
+<h2 align="center"> Day : Day February , 2019 </h2>
  
 **Today's Progress**: I've been working on ...
 
@@ -13,7 +13,7 @@ Code sample
 </p>
 
 **Link to tweet**
-[Day 1]()
+[Day 2]()
 
 **Link to Repo**
 [Repo]()

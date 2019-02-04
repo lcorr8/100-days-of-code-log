@@ -413,3 +413,20 @@ end
 **Link to tweet**
 [Day 23](https://twitter.com/L_corr/status/1092482697572827136)
 
+<h2 align="center"> Day 24: Thursday January 31, 2019 </h2>
+ 
+**Today's Progress**: Read about the internet, the power of linking resources independently of their hierarchy and Tim Berners-Lee.
+
+<p align="center">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Sir_Tim_Berners-Lee_%28cropped%29.jpg/440px-Sir_Tim_Berners-Lee_%28cropped%29.jpg" alt="Tim Berners-Lee">
+</p>
+
+**Resource Links**
+
+[The history of the internet wiki](https://en.m.wikipedia.org/wiki/History_of_the_Internet)
+
+[Internet Service Provider](https://en.m.wikipedia.org/wiki/Internet_service_provider)
+
+**Link to tweet**
+[Day 24](https://twitter.com/L_corr/status/1092496310803054592)
+

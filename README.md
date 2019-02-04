@@ -405,3 +405,11 @@ end
 
 **Link to tweet**
 [Day 22](https://twitter.com/L_corr/status/1091352190621544449)
+
+<h2 align="center"> Day 23: Wednesday January 30, 2019 </h2>
+ 
+**Today's Progress**: Today I completed the Flatiron git and github review section.
+
+**Link to tweet**
+[Day 23](https://twitter.com/L_corr/status/1092482697572827136)
+

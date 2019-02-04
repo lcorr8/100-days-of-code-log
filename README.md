@@ -430,3 +430,15 @@ end
 **Link to tweet**
 [Day 24](https://twitter.com/L_corr/status/1092496310803054592)
 
+<h2 align="center"> Day 25: Friday February 1, 2019 </h2>
+ 
+**Today's Progress**: AWS Friday! Today I finished the EC2 section of a cloud guru aws cert developer - associate course! RDS multi-AZ and read replicas, and elasticache.
+
+**Thoughts**: Only missed 2 questions on the quiz so not a bad starting point. Hoping the exam goes well as well!
+
+<p align="center">
+	<img src="./images/ec2-quiz.png" alt="Deco image of the 92% quiz result">
+</p>
+
+**Link to tweet**
+[Day 25](https://twitter.com/L_corr/status/1092500595674677260)

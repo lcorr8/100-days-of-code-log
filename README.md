@@ -442,3 +442,33 @@ end
 
 **Link to tweet**
 [Day 25](https://twitter.com/L_corr/status/1092500595674677260)
+
+<!-- <h2 align="center"> Day 26: Saturday February 2, 2019 </h2>
+ 
+**Today's Progress**: Today I reviewed basic HTML and CSS. Discovered css garden. my favorites were: [213](http://www.csszengarden.com/213/), [218](http://www.csszengarden.com/218/), [221](http://www.csszengarden.com/221/), and [215](http://www.csszengarden.com/215/).
+
+<p align="center">
+	<img src="" alt="">
+</p>
+
+**Link to tweet**
+[Day 26]() -->
+
+<!-- <h2 align="center"> Day 27: Sunday February 3, 2019 </h2>
+ 
+**Today's Progress**: Regex review! oh my I have avoiding regex for quite a bit.
+
+**Thoughts**: omg [regex golf](https://alf.nu/RegexGolf) hehe literally just overcomplicated things so much...ahh foo
+
+```
+foo
+```
+
+**Link to tweet**
+[Day 27]()
+
+**Link to cool links**
+[Rubular](https://rubular.com/)
+[regexone](https://regexone.com/)
+[regex golf](https://alf.nu/RegexGolf)
+[regexr](https://regexr.com/) -->

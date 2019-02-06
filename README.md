@@ -454,3 +454,25 @@ end
 **Link to tweet**
 [Day 26](https://twitter.com/L_corr/status/1093207274741555201)
 
+<h2 align="center"> Day 27: Sunday February 3, 2019 </h2>
+ 
+**Today's Progress**: Regex review! oh my I have been avoiding regex for quite a bit.
+
+**Thoughts**: omg [regex golf](https://alf.nu/RegexGolf) hehe literally just overcomplicated things so much...ahh foo
+
+```
+foo
+```
+
+**Link to tweet**
+[Day 27](https://twitter.com/L_corr/status/1093212524810522625)
+
+**Link to cool links**
+
+[Rubular](https://rubular.com/)
+
+[regexone](https://regexone.com/)
+
+[regex golf](https://alf.nu/RegexGolf)
+
+[regexr](https://regexr.com/)

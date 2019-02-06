@@ -476,3 +476,17 @@ foo
 [regex golf](https://alf.nu/RegexGolf)
 
 [regexr](https://regexr.com/)
+
+<h2 align="center"> Day 28: Monday February 4, 2019 </h2>
+ 
+**Today's Progress**: Today I worked on ruby variables. Pass-by-value vs pass-by-reference, default arguments, binding.pry and return values.
+
+**Link to tweet**
+[Day 28](https://twitter.com/L_corr/status/1093215646475841538)
+
+<h2 align="center"> Day 29: Tuesday February 5, 2019 </h2>
+ 
+**Today's Progress**: Today reviwed booleans, logic and conditionals in Ruby.
+
+**Link to tweet**
+[Day 29](https://twitter.com/L_corr/status/1093215646475841538)

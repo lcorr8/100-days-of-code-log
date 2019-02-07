@@ -490,3 +490,14 @@ foo
 
 **Link to tweet**
 [Day 29](https://twitter.com/L_corr/status/1093215646475841538)
+
+<h2 align="center"> Day 30: Wednesday February 6, 2019 </h2>
+ 
+**Today's Progress**: Today read about more logic in Ruby. Particularly the statement modifier which allows you to put a conditional at the end of a statement, ternary operators, code-smell, and finally the comparative operator (==) vs the case comparison operator (===) funkiness in Ruby.
+
+<p align="center">
+	<img src="https://media1.giphy.com/media/Aaxx5L7jDuFVK/giphy.gif?cid=3640f6095c5c5520624d575751ea0929">
+</p>
+
+**Link to tweet**
+[Day 30](https://twitter.com/L_corr/status/1093538558923685889)

@@ -509,3 +509,15 @@ foo
 **Link to tweet**
 [Day 31](https://twitter.com/L_corr/status/1094183718724554752)
 
+<h2 align="center"> Day 32: Friday February 8, 2019 </h2>
+ 
+**Today's Progress**: AWS Friday! Today I learned about S3 basics and security (policies and access control lists).
+
+**Thoughts**: finally something I've seen before!
+
+<p align="center">
+	<img src="https://media1.tenor.com/images/416e281b1accd222c98e33d7a3126f01/tenor.gif?itemid=3470629" alt="">
+</p>
+
+**Link to tweet**
+[Day 32](https://twitter.com/L_corr/status/1094184956438433794)

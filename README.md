@@ -501,3 +501,11 @@ foo
 
 **Link to tweet**
 [Day 30](https://twitter.com/L_corr/status/1093538558923685889)
+
+<h2 align="center"> Day 31: Thursday February 7, 2019 </h2>
+ 
+**Today's Progress**: Today I read some more about REACT, and  Declarative programming
+
+**Link to tweet**
+[Day 31](https://twitter.com/L_corr/status/1094183718724554752)
+

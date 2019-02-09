@@ -12,11 +12,5 @@ Code sample
 	<img src="" alt="">
 </p>
 
-**Link to tweet**
-[Day 2]()
-
-**Link to Repo**
-[Repo]()
-
-**Link to Project**
-[Repo]()
+**Link to tweet**  
+[Day 3]()

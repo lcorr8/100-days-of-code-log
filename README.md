@@ -521,3 +521,45 @@ foo
 
 **Link to tweet**
 [Day 32](https://twitter.com/L_corr/status/1094184956438433794)
+
+<h2 align="center"> Day 33: Saturday February 9, 2019 </h2>
+ 
+**Today's Progress**: Today I practiced writing simple React components and passing data from parent to child components.
+
+**Link to tweet**  
+[Day 33](https://twitter.com/L_corr/status/1095366479221006336)
+
+<h2 align="center"> Day 34: Sunday February 10, 2019 </h2>
+ 
+**Today's Progress**: Today I read about babel, webpack and did a jsx lab.
+
+**Favorite quotes from the lessons:** My favorite explanations are simple concise ones...look at this beauty!  1 - 2 sentences done!
+
+> "Babel enables us to use syntax that browsers won't natively recognize by pre-compiling it into syntax that browsers do natively recognize. When used with React, this can (and in our case will) include, but not be limited to, digesting JSX."
+
+
+> "In React, Webpack manages pesky dependency loading for us by pre-digesting our many files' code and outputting a single 'bundle', which contains all of our code, with dependencies properly placed, in one file."
+
+**Link to tweet**  
+[Day 34](https://twitter.com/L_corr/status/1095366479221006336)
+
+<h2 align="center"> Day 35: Monday February 11, 2019 </h2>
+ 
+**Today's Progress**: Props and how they make react components more dynamic (default props, proptype validations, proptype shape validation, custom proptype validations).
+
+**Link to tweet**  
+[Day 35](https://twitter.com/L_corr/status/1095366479221006336)
+
+<h2 align="center"> Day 36: Tuesday February 12, 2019 </h2>
+ 
+**Today's Progress**: todays hour was spent on component children and component states.
+
+**Thoughts:** Loving the fact I get to spend my day learning about react and feeling like my backbase days are behind me...
+
+<p align="center">
+	<img src="" alt="">
+</p>
+
+**Link to tweet**  
+[Day 36](https://twitter.com/L_corr/status/1095366479221006336)
+

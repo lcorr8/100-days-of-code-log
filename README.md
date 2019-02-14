@@ -563,3 +563,22 @@ foo
 **Link to tweet**  
 [Day 36](https://twitter.com/L_corr/status/1095366479221006336)
 
+<h2 align="center"> Day 37: Wednesday February 13, 2019 </h2>
+ 
+**Today's Progress**: today I worked on initial state, the difference between state and props, the React event system, adding event handlers.
+
+**Link to tweet**  
+[Day 37]()
+
+<h2 align="center"> Day 38: Thursday February 14, 2019 </h2>
+ 
+**Today's Progress**: Today continued working on event handlers and state changes. I also learned setting a state is not synchronous although it seems like it is since components update right away, and I read about event pooling, accessing event data, and persisting events when they need to be accessed asynchronously. I also learned about merging nested states with the spread operator.
+
+**Thoughts:** so much knowledge!
+
+<p align="center">
+	<img src="" alt="">
+</p>
+
+**Link to tweet**  
+[Day 38]()

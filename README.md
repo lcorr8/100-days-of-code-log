@@ -675,5 +675,9 @@ component delition happens
 	<img src="https://pbs.twimg.com/media/CytdH7XUsAAwi30.jpg" alt="meme">
 </p>
 
+**Articles Read**
+
+- [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
+
 **Link to tweet**  
 [Day 44]()

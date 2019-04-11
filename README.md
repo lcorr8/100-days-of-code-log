@@ -666,3 +666,14 @@ component delition happens
 
 **Link to tweet**  
 [Day 43]()
+
+<h2 align="center"> Day 44: Friday April 12, 2019 </h2>
+ 
+**Today's Progress**: AWS friday! Today I learned about serverless 101, lambda, and API Gateway.
+
+<p align="center">
+	<img src="https://pbs.twimg.com/media/CytdH7XUsAAwi30.jpg" alt="meme">
+</p>
+
+**Link to tweet**  
+[Day 44]()

@@ -437,7 +437,7 @@ end
 **Thoughts**: Only missed 2 questions on the quiz so not a bad starting point. Hoping the exam goes well as well!
 
 <p align="center">
-	<img src="./images/ec2-quiz.png" alt="Deco image of the 92% quiz result">
+	<img src="./images/ec2-quiz.png" alt="Deco image of the 92% quiz result for the EC2 section quiz">
 </p>
 
 **Link to tweet**
@@ -567,8 +567,8 @@ foo
  
 **Today's Progress**: today I worked on initial state, the difference between state and props, the React event system, adding event handlers.
 
-**Link to tweet**  
-[Day 37]()
+<!-- **Link to tweet**  
+[Day 37]() -->
 
 <h2 align="center"> Day 38: Thursday February 14, 2019 </h2>
  
@@ -576,9 +576,93 @@ foo
 
 **Thoughts:** so much knowledge!
 
+<!-- <p align="center">
+	<img src="" alt="">
+</p> -->
+
+<!-- **Link to tweet**  
+[Day 38]() -->
+
+<!-- <h2 align="center"> Day 39: Friday February 15, 2019 </h2>
+ 
+**Today's Progress**: AWS Friday! Today I worked on S3 Encryption, CORS, CloudFront.
+
+**Thoughts**: It was really cool to see a larger image loading slowly when located far away from your location and then seeing that loading time decreased with the use of CloudFront :)
+
 <p align="center">
 	<img src="" alt="">
 </p>
 
 **Link to tweet**  
-[Day 38]()
+[Day 39]() -->
+
+<h2 align="center"> Day 40: Saturday February 16, 2019 </h2>
+ 
+**Today's Progress**: Today I Learned about controlled forms in React. How react uses value (for ex in inputs), how to check if a component is controlled or uncontrolled, strategies for using controlled components and using controlled inputs to validate values, and value vs reactvalue.
+
+<!-- <p align="center">
+	<img src="" alt="">
+</p> -->
+
+<!-- **Link to tweet**  
+[Day 40]() -->
+
+<h2 align="center"> Day 41: Sunday February 17, 2019 </h2>
+ 
+**Today's Progress**: Today I read about component lifecylcles (lifecycle hooks/methods)
+<!-- **Thoughts**: ...
+
+```
+(pre-mounting)
+constructor
+---
+component will mount
+render
+component did mount - good for fetching and updating data
+---
+(updating) (re-rendering)
+componentWillReceiveProps
+shouldComponentUpdate - good for comparing old/new props
+componentWillUpdate - good for updating integrations with 3rd party libs
+re-rendering happens
+componentDidUpdate - access to borth prev and current props/state, good for updating 3rd party libs after rerendering
+---
+(unmounting stage|)
+componentWillUnmount - useful for clearing up any setup carried on the component did mount
+component delition happens
+
+```
+
+<p align="center">
+	<img src="" alt="">
+</p> -->
+
+<!-- **Link to tweet**  
+[Day 41]() -->
+
+<h2 align="center"> Day 42: Monday February , 2019 </h2>
+ 
+**Today's Progress**: Today I'm working on more component lifecycle and rendering exercises. As well as the container component pattern.
+
+**Thoughts**: ...
+
+<p align="center">
+	<img src="" alt="">
+</p>
+
+**Link to tweet**  
+[Day 42()
+
+
+<h2> NOTE: I stopped my challenge for personal reasons for 2 months. and below is where I continued. There was some programming happening here on the weekends...but it was not as consistent as I would have liked. </h2>
+
+<h2 align="center"> Day 43: Thursday April 11, 2019 </h2>
+ 
+**Today's Progress**: Today I learned about S3 optimization, and the performance update. I also reviewed the entire AWS S3 section and took the section quiz.
+
+<p align="center">
+	<img src="./images/s3-quiz.png" alt="Deco image of the 93% quiz result for the S3 section quiz.">
+</p>
+
+**Link to tweet**  
+[Day 43]()
